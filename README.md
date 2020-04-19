@@ -1,5 +1,7 @@
 # SAMHAR-COVID19-Hackathon
 
+<h1> Team Name : Xerphons </h1><BR>
+
 This repository contains the final model, trained by our team.Currenly it works for Pneumonia Diagnosis, and a new model for Coronavirus will be trained at CDAC.
 
 The submission of our project COVID-X is as follows:
