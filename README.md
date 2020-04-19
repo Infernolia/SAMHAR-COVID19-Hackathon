@@ -2,7 +2,7 @@
 
 <h1> Team Name : Xerphons </h1><BR>
 
-This repository contains the final model, trained by our team.Currenly it works for Pneumonia Diagnosis, and a new model for Coronavirus will be trained at CDAC.
+This repository contains the final model, trained by our team.Currenly it works for Pneumonia Diagnosis, and a new model for Coronavirus will be trained in the hackathon.
 
 The submission of our project COVID-X is as follows:
 
