@@ -15,7 +15,7 @@ Main Project Presentation, with CNN architecture and Use Case Diagram<BR>
 Video demonstrating the Project<BR>
 Front End and Backend Code<br>
 
-The link for the Google Drive is provided <a href="https://drive.google.com/drive/folders/15r5qApkFa0_bZZ9AG1p19636LEmnlPwD?usp=sharing">here</a>.
+
 
 
 
