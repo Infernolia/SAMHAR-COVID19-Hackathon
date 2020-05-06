@@ -30,7 +30,8 @@ Tensorflow 2.0<BR>
 Numpy<BR>
 Glob<BR>
 Matplotlib<BR>
-  
+  <h1>Procedure:</h1><BR>
+
   Download the dataset from : https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia<BR>
   Run the model.py <BR>
   Run the run.py<BR>
