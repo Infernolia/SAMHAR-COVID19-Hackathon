@@ -35,7 +35,7 @@ Matplotlib<BR>
   Run the model.py <BR>
   Run the run.py<BR>
 
-  <img src="/C:/Users/Aboli/Desktop/A1.png"   width="500" height="600"><BR>
+  <img src="C:\Users\Aboli\Desktop\A1.png"   width="500" height="600"><BR>
    <img src="/C:/Users/Aboli/Desktop/A2.png"  width="500" height="600"><BR>
   
  <img src="/C:/Users/Aboli/Desktop/A3.png"   width="500" height="600"><BR>
