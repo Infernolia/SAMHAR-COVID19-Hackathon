@@ -39,9 +39,9 @@ Matplotlib<BR>
 <h1>THEORY:</h1><BR>
   <h3>This confusion matrix, presents the core metric of testing medical AI diagnostics. Unlike usual data analytics, in medicinal applications, recall is the true metric over accuracy, as in laymans terms it is more dangerous to detect COVID 19 in a person falsely, than to give a negative diagnosis, falsely.</h3><BR>
   <img src="A1.png"   width="500" height="600"><BR>
-   <h3>This confusion matrix, presents the core metric of testing medical AI diagnostics. Unlike usual data analytics, in medicinal applications, recall is the true metric over accuracy, as in laymans terms it is more dangerous to detect COVID 19 in a person falsely, than to give a negative diagnosis, falsely.</h3><BR>
+   <h3>This diagram represents the VGG-16 network, and the layers it comprises of. We can see how complicated the network is, and how many related layers are put together for this analysis.</h3><BR>
    <img src="A2.png"  width="500" height="600"><BR>
-   <h3>This confusion matrix, presents the core metric of testing medical AI diagnostics. Unlike usual data analytics, in medicinal applications, recall is the true metric over accuracy, as in laymans terms it is more dangerous to detect COVID 19 in a person falsely, than to give a negative diagnosis, falsely.</h3><BR>
+   <h3>Here is a visualisation of the diagnosis results. As you can see, the doctors, Public Health officials or any ordinary  person can read this diagnosis, and use the website. There is no complex medical terminology or indecipherable results. The results are user friendly.</h3><BR>
   
  <img src="A3.png"   width="500" height="600"><BR>
    <h3>This confusion matrix, presents the core metric of testing medical AI diagnostics. Unlike usual data analytics, in medicinal applications, recall is the true metric over accuracy, as in laymans terms it is more dangerous to detect COVID 19 in a person falsely, than to give a negative diagnosis, falsely.</h3><BR>
