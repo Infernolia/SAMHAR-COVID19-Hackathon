@@ -35,16 +35,16 @@ Matplotlib<BR>
   Run the model.py <BR>
   Run the run.py<BR>
 
-  <img src="C:/Users/Aboli/Desktop/A1.png" alt="Girl in a jacket" style="width:500px;height:600px;"><BR>
-   <img src="C:/Users/Aboli/Desktop/A2.png" alt="Girl in a jacket" style="width:500px;height:600px;"><BR>
+  <img src="C:/Users/Aboli/Desktop/A1.png"  style="width:500px;height:600px;"><BR>
+   <img src="C:/Users/Aboli/Desktop/A2.png" style="width:500px;height:600px;"><BR>
   
- <img src="C:/Users/Aboli/Desktop/A3.png" alt="Girl in a jacket" style="width:500px;height:600px;"><BR>
+ <img src="C:/Users/Aboli/Desktop/A3.png"  style="width:500px;height:600px;"><BR>
   
-   <img src="C:/Users/Aboli/Desktop/A4.png" alt="Girl in a jacket" style="width:500px;height:600px;"><BR>
+   <img src="C:/Users/Aboli/Desktop/A4.png"  style="width:500px;height:600px;"><BR>
   
-   <img src="C:/Users/Aboli/Desktop/A5.png" alt="Girl in a jacket" style="width:500px;height:600px;"><BR>
+   <img src="C:/Users/Aboli/Desktop/A5.png"  style="width:500px;height:600px;"><BR>
   
-   <img src="C:/Users/Aboli/Desktop/A6.png" alt="Girl in a jacket" style="width:500px;height:600px;"><BR>
+   <img src="C:/Users/Aboli/Desktop/A6.png"  style="width:500px;height:600px;"><BR>
   
   
 </html>
