@@ -37,14 +37,20 @@ Matplotlib<BR>
   Run the run.py<BR>
 
 <h1>THEORY:</h1><BR>
+  <h3>This confusion matrix, presents the core metric of testing medical AI diagnostics. Unlike usual data analytics, in medicinal applications, recall is the true metric over accuracy, as in laymans terms it is more dangerous to detect COVID 19 in a person falsely, than to give a negative diagnosis, falsely.</h3><BR>
   <img src="A1.png"   width="500" height="600"><BR>
+   <h3>This confusion matrix, presents the core metric of testing medical AI diagnostics. Unlike usual data analytics, in medicinal applications, recall is the true metric over accuracy, as in laymans terms it is more dangerous to detect COVID 19 in a person falsely, than to give a negative diagnosis, falsely.</h3><BR>
    <img src="A2.png"  width="500" height="600"><BR>
+   <h3>This confusion matrix, presents the core metric of testing medical AI diagnostics. Unlike usual data analytics, in medicinal applications, recall is the true metric over accuracy, as in laymans terms it is more dangerous to detect COVID 19 in a person falsely, than to give a negative diagnosis, falsely.</h3><BR>
   
  <img src="A3.png"   width="500" height="600"><BR>
+   <h3>This confusion matrix, presents the core metric of testing medical AI diagnostics. Unlike usual data analytics, in medicinal applications, recall is the true metric over accuracy, as in laymans terms it is more dangerous to detect COVID 19 in a person falsely, than to give a negative diagnosis, falsely.</h3><BR>
   
    <img src="A4.png"   width="500" height="600"><BR>
+   <h3>This confusion matrix, presents the core metric of testing medical AI diagnostics. Unlike usual data analytics, in medicinal applications, recall is the true metric over accuracy, as in laymans terms it is more dangerous to detect COVID 19 in a person falsely, than to give a negative diagnosis, falsely.</h3><BR>
   
    <img src="A5.png"  width="500" height="600"><BR>
+   <h3>This confusion matrix, presents the core metric of testing medical AI diagnostics. Unlike usual data analytics, in medicinal applications, recall is the true metric over accuracy, as in laymans terms it is more dangerous to detect COVID 19 in a person falsely, than to give a negative diagnosis, falsely.</h3><BR>
   
    <img src="A6.png"  width="500" height="600"><BR>
   
