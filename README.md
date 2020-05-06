@@ -36,6 +36,7 @@ Matplotlib<BR>
   Run the model.py <BR>
   Run the run.py<BR>
 
+<h1>THEORY:</h1><BR>
   <img src="A1.png"   width="500" height="600"><BR>
    <img src="A2.png"  width="500" height="600"><BR>
   
